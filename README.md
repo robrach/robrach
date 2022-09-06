@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Robert.
 - 👀 I'm a beginner software developer with 10 years of experience in industrial engineering. Recently I completed an intensive 445h programming course focused on working as a Junior Python Developer. However, my programming experience started much earlier: in elementary school I did some coding in QBasic, then in high school I tried basics of C++, later at university I learned basics of Turbo Pascal. In my current job I code a little when I design parametric 3D models - I use VBA in Autodesk Inventor.
 - 🌱 Currently I'm working individually on my private projects to develop my programming skills.
-- ✨ My example deployed  project can be found at https://totaltop.herokuapp.com
+- ✨ My example deployed projects can be found at:
+  - https://totaltop.herokuapp.com
+  - https://nglib.herokuapp.com
 - 📫 How to reach me: robert.rachubinski@gmail.com
 
 <!---
